@@ -1,7 +1,7 @@
 ---
 title: linux下安装nginx_mysql_php
 date: 2016-01-01 15:41:23
-tags: [linux,php,nginx,mysql]
+tags: [linux,php]
 categories: php
 ---
 本文分享下安装lnmp环境的详细步骤。

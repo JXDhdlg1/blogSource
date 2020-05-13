@@ -1,7 +1,7 @@
 ---
 title: elasticsearch学习系列-分布式系统中深度分页
 date: 2020-02-11 20:44:02
-tags: [elasticsearch, 分布式搜索]
+tags: [elasticsearch]
 categories: elasticsearch
 ---
 本文介绍下ES中搜索的分页功能，据此也引出分布式系统中深度分页的问题
