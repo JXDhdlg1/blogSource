@@ -15,5 +15,7 @@ categories: elasticsearch
 - 老集群断写入
 
 ### 架构转变
+- 业务集群
+- pub log集群
 
 ### 注意事项
