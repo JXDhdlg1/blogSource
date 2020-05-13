@@ -1,7 +1,7 @@
 ---
 title: Elasticsearch学习系列-入门介绍
 date: 2019-05-29 09:55:42
-tags: [elasticsearch, 分布式搜索]
+tags: [elasticsearch]
 categories: elasticsearch
 ---
 elasticsearch是功能强大的基于Lucene实现的开源搜索引擎。

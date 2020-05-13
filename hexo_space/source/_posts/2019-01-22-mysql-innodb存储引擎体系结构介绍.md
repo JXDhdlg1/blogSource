@@ -1,7 +1,7 @@
 ---
 title: mysql-innodb存储引擎体系结构介绍
 date: 2017-05-22 11:10:02
-tags: [mysql, innodb]
+tags: [mysql]
 categories: mysql
 ---
   本文简单介绍Innodb存储引擎的体系架构。
