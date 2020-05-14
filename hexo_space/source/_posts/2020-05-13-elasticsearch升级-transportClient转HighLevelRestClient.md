@@ -19,3 +19,5 @@ categories: elasticsearch
 - pub log集群
 
 ### 注意事项
+- 数据迁移过程中双写，并建立补偿机制，避免数据丢失
+- 
