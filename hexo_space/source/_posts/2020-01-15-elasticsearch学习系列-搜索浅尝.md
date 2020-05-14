@@ -1,7 +1,7 @@
 ---
 title: elasticsearch学习系列-搜索浅尝
 date: 2020-01-15 22:47:30
-tags: [elasticsearch, 分布式搜索]
+tags: [elasticsearch]
 categories: elasticsearch
 ---
 本文简单介绍ES搜索的一些简单尝试
