@@ -1,6 +1,6 @@
 ---
 title: elasticsearch升级-transportClient转HighLevelRestClient
-date: 2020-05-13 06:53:22
+date: 2020-03-13 06:53:22
 tags: elasticsearch
 categories: elasticsearch
 ---
@@ -20,4 +20,3 @@ categories: elasticsearch
 
 ### 注意事项
 - 数据迁移过程中双写，并建立补偿机制，避免数据丢失
-- 
