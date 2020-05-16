@@ -1,6 +1,6 @@
 ---
 title: elasticsearch升级-transportClient转HighLevelRestClient
-date: 2020-03-13 06:53:22
+date: 2019-11-02 06:53:22
 tags: elasticsearch
 categories: elasticsearch
 ---
@@ -14,9 +14,11 @@ categories: elasticsearch
 - 读改到升级后新集群
 - 老集群断写入
 
-### 架构转变
-- 业务集群
-- pub log集群
+### 架构
+- ![架构简介](/images/es_jg.png)
+
 
 ### 注意事项
 - 数据迁移过程中双写，并建立补偿机制，避免数据丢失
+- 核心业务部署双集群，封装DR
+- 建立db数据和es数据的全量同步流程，修复数据不一致
