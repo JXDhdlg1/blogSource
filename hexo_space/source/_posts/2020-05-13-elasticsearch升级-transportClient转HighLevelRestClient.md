@@ -1,6 +1,6 @@
 ---
 title: elasticsearch升级-transportClient转HighLevelRestClient
-date: 2019-11-02 06:53:22
+date: 2019-12-02 06:53:22
 tags: elasticsearch
 categories: elasticsearch
 ---
@@ -15,7 +15,7 @@ categories: elasticsearch
 - 老集群断写入
 
 ### 架构
-- ![架构简介](/images/es_jg.png)
+![架构简介](/images/es_jg.png)
 
 
 ### 注意事项
