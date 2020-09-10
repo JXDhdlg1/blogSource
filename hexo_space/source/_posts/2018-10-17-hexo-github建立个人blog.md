@@ -1,8 +1,6 @@
 ---
 title: hexo+github建立个人blog
 date: 2015-10-17 14:38:19
-tags:  [hexo,blog]
-categories: hexo
 ---
 本文将根据我的个人博客，给大家分享基于hexo+github建立个人博客的过程。
 欢迎讨论和吐槽。

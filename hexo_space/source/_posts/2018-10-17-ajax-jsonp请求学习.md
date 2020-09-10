@@ -1,8 +1,8 @@
 ---
 title: ajax-jsonp请求学习
 date: 2016-01-17 15:33:53
-tags: [ajax, 问题记录]
-categories: ajax
+tags: [问题记录]
+categories: 问题记录
 ---
 
 ### 问题
