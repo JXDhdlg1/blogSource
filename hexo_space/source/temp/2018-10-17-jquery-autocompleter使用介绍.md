@@ -1,8 +1,6 @@
 ---
 title: jquery-autocompleter使用介绍
 date: 2016-04-17 14:52:58
-tags: [jquery]
-categories: jquery
 ---
 本文分享使用jquery-autocompleter模板。
 欢迎讨论和吐槽。
