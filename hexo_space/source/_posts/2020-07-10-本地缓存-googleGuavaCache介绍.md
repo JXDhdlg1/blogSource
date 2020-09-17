@@ -5,4 +5,11 @@ tags: [java, Guava]
 categories: java
 ---
 
-参考：https://www.jianshu.com/p/38bd5f1cf2f2
+### 使用背景
+
+### 使用说明
+
+### 原理
+
+### 参考
+- [参考介绍](https://www.jianshu.com/p/38bd5f1cf2f2)
